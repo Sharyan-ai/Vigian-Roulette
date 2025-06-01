@@ -13,7 +13,7 @@ from telegram.constants import UpdateType
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = "8196943466:AAECi7gLExUqRUcTlPT4SmHSd-ozkRwVH1E"
+TOKEN = "YOUR_BOT_TOKEN_HERE"
 
 # متغیرهای سراسری
 games = {}
